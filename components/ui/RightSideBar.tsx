@@ -53,7 +53,7 @@ const RightSideBar = () => {
               />
               <h2 className="text-14 font-semibold text-white-1">{podcaster.name}</h2>
               <div className="flex items-center">
-              <p className="text-12 font-normal px-10">{podcaster.totalPodcasts} podcasts</p>
+              <p className="text-12 font-normal px-10 text-white-1">{podcaster.totalPodcasts} podcasts</p>
             </div>
             </figure>
           </div>
